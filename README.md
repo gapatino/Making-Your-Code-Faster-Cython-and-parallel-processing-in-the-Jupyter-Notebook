@@ -1,4 +1,4 @@
-# Making-Your-Code-Faster-Cython-and-parallel-processing-in-the-Jupyter-Notebook
+# Making your code faster: Cython and parallel processing in the Jupyter Notebook
 Repository for the PyData DC 2016 tutorial
 
 Python has multiple options to speed up code execution, including the use of specialized libraries, different compilers or 
